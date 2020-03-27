@@ -10,7 +10,7 @@
         <WebBrowser x:Name="WEB" HorizontalAlignment="Left" Height="800" Margin="22,39,0,0" VerticalAlignment="Top" Width="800" Source="https://www.youtube.com/embed/BhvLIzVL8_o"/>
         <WebBrowser HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100"/>
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Height="42" Margin="251,-8774,0,0" TextWrapping="Wrap" Text="hola mundo" VerticalAlignment="Top" Width="286"/>
+        <TextBlock HorizontalAlignment="Left" Height="42" Margin="251,-8774,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="286"><Run Text="hola mundo"/><Run Text=" hhhhhhhhhhhhhhhhhhh"/></TextBlock>
 
 
     </Grid>
